@@ -18,7 +18,6 @@ Check out my app called [Inkdrop](https://www.inkdrop.app/)
 - tmux config
 - git config
 - fish config
-- PowerShell config
 
 ## Neovim setup
 
@@ -51,15 +50,6 @@ Check out my app called [Inkdrop](https://www.inkdrop.app/)
 - [ghq](https://github.com/x-motemen/ghq) - Local Git repository organizer
 - [fzf](https://github.com/PatrickF1/fzf.fish) - Interactive filtering
 
-## PowerShell setup (Windows)
-
-- [Scoop](https://scoop.sh/) - A command-line installer
-- [Git for Windows](https://gitforwindows.org/)
-- [Oh My Posh](https://ohmyposh.dev/) - Prompt theme engine
-- [Terminal Icons](https://github.com/devblackops/Terminal-Icons) - Folder and file icons
-- [PSReadLine](https://docs.microsoft.com/en-us/powershell/module/psreadline/) - Cmdlets for customizing the editing environment, used for autocompletion
-- [z](https://www.powershellgallery.com/packages/z) - Directory jumper
-- [PSFzf](https://github.com/kelleyma49/PSFzf) - Fuzzy finder
 
 ## How to use
 
@@ -71,7 +61,6 @@ Watch my video tutorials:
 1. [A productive command-line Git workflow for indie app developers](https://www.youtube.com/watch?v=qKpY7t5m35k&list=PLxQA0uNgQDCICMRwlOzWAZBPL05XBC_br&index=4)
    - [Blogpost](https://dev.to/craftzdog/a-productive-command-line-git-workflow-for-indie-app-developers-k7d)
 1. [My Fish shell workflow for coding](https://www.youtube.com/watch?v=KKxhf50FIPI)
-1. [How to set up PowerShell prompt with Oh My Posh on Windows 11](https://www.youtube.com/watch?v=5-aK2_WwrmM)
 
 ## About me
 
